@@ -4,6 +4,12 @@
     margin-top: 0;
     margin-bottom: 0;
 }
+.designation{
+    font-size: 25px;
+    font-style: italic;
+    margin-top: 0;
+    margin-bottom: 0;
+}
 .card{
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
     width: 30%;
