@@ -1,3 +1,11 @@
+.card{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    width: 30%;
+    padding-left: 10px;
+    padding-top: 10px;
+    transition: 2s;
+    padding-bottom: 30px;
+}
 .name{
     font-size: 30px;
     font-weight: bold;
@@ -9,12 +17,4 @@
     font-style: italic;
     margin-top: 0;
     margin-bottom: 0;
-}
-.card{
-    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-    width: 30%;
-    padding-left: 10px;
-    padding-top: 10px;
-    transition: 2s;
-    padding-bottom: 30px;
 }
