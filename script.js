@@ -1,5 +1,5 @@
 var data1={image:"./Images/ABC.png",name: "Suryabhaskar", designation: "Student"};
-var data2={image:"./Images/DEF.png",name: "Kamma Suryabhaskar", designation: "Intern"};
+var data2={image:"./Images/DEF.jpeg",name: "Kamma Suryabhaskar", designation: "Intern"};
 var isdata1=true;
 var display_data;
 var change_my_pic=function(){
