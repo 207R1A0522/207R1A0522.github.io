@@ -14,4 +14,6 @@ var change_my_pic=function(){
         isdata1=true;
     }
     document.getElementById("my_image").src=display_data.image;
+    document.getElementById("my_name").innerHTML=display_data.name;
+    document.getElementById("my_designation").innerHTML=display_data.designation;
 }
