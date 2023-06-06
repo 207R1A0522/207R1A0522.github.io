@@ -1,4 +1,4 @@
-var user_info={name:"",image:"",username:""}
+var user_info={name:"",image:"",username:""};
 var change_my_pic=function(){
     fetch("https://randomuser.me/api").then((response)=>response.json()).then((data)=>{
         user_info.name=data.results[0].name.first;
